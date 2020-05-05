@@ -107,6 +107,9 @@ DB_URI = os.environ.get("DATABASE_URL", None)
 # MongoDB URI
 MONGO_DB_URI = os.environ.get("MONGO_DB_URI", None)
 
+# Quote
+QUOTES_API_TOKEN = os.environ.get("QUOTES_API_TOKEN", None)
+
 # remove.bg API key
 REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
 
