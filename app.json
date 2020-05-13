@@ -10,8 +10,9 @@
     "productivity"
   ],
   "repository": "https://github.com/newwalahai1/TG-UBotX",
-  "website": "https://hitalokun.github.io/ubotx-docs/#/",
-  "success_url": "https://t.me/UBotX",
+  "website": "https://github.com/newwalahai1/TG-UBotX",
+  "success_url": "https://t.me/apunadminhai",
+  "stack": "container",
   "env": {
     "API_KEY": {
       "description": "Get this value from my.telegram.org.",
